@@ -16,3 +16,4 @@ common con probabile conflitto
 plutarcus
 pluto
 gran ciocco
+local
